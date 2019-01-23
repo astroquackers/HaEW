@@ -1,6 +1,6 @@
 # HaEW
 Python script to calculate Halpha equivalent widths from photometry.
-To run, place the script eq.py in the appropriate folder and compile. The script is run via a simple command haew. If you require to compute the errors on the haew, please contact me. Please note that the script is only applicable to VPHAS+ filter set in Vegamag. If you need to compute line widths for stars beyond spectral type M2, please contact me. 
+To run, place the script eq.py in the appropriate folder and compile. The script is run via a simple command haew. Please note that the script is only applicable to VPHAS+ filter set in Vegamag. If you need to compute line widths for stars beyond spectral type M2, please contact me. 
 
 haew(ri, rha, Av)
 
